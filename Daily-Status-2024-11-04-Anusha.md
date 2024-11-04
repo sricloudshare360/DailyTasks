@@ -3,7 +3,7 @@
   https://docs.google.com/spreadsheets/d/1qSjWmJIovEP18Jt8kR9u6OJ8v-ezAPRsDJInzyknubc/edit?gid=0#gid=0
 
 •⁠  ⁠⁠please share git 
-        [Past the Link](https://github.com/sricloudshare360/anusha-workspace.git)
+        https://github.com/sricloudshare360/anusha-workspace.git
 •⁠  ⁠⁠please provide daily standup
           * what you have done Yesterday ?
            Ans: 
