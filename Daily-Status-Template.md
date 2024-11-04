@@ -1,11 +1,16 @@
- ⁠please update the timesheet sheet/tracking sheet 
-•⁠  ⁠⁠please share git repo
+ ⁠please update the timesheet sheet/tracking sheet
+  Page the Link for the Tracking Sheet:
+
+•⁠  ⁠⁠please share git 
+        Past the Link
 •⁠  ⁠⁠please provide daily standup
           * what you have done Yesterday 
+           Ans: 
           * what are you planning to complete today before you leave for the day
-           * do you have any blockers 
+          Ans:
+           * Do you have any blockers 
 
-Common Task:
+Common Task: This section fill it if you have done it, other wise you don't need to update
  Go through the Programmiz content and come up with tentative to plan to complete 
        * The definition of complete means
         * each topic you when through
@@ -16,6 +21,8 @@ Common Task:
            Of GitHub repo
 
 Create a one more markdown called Clarification.md
+
+Add a date , followed by Name: Mention your question and clarification
 
 Inside it create each of you name
 
