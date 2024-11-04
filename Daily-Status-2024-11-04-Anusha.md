@@ -5,8 +5,9 @@
 •⁠  ⁠⁠please share git 
         https://github.com/sricloudshare360/anusha-workspace.git
 •⁠  ⁠⁠please provide daily standup 
+        gitbook video,resume,q and a refered by nani and me
           * what you have done Yesterday ? 
-           Ans: 
+           Ans: Holiday
           * what are you planning to complete today before you leave for the day
           Ans: today completed gitbook video,resume,q and a ref by nani .today and tomorrow html has to be completed
            * Do you have any blockers.
