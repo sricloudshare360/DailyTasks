@@ -9,7 +9,7 @@
            Ans: 
           * what are you planning to complete today before you leave for the day
           Ans: today completed gitbook video,resume,q and a ref by nani .today and tomorrow html has to be completed
-           * Do you have any blockers 
+           * Do you have any blockers .
           Ans.can u share a video for markdown video like for eg scrimba  
 Common Task: This section fill it if you have done it, other wise you don't need to update
  Go through the Programmiz content and come up with tentative to plan to complete 
