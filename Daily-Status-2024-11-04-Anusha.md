@@ -4,7 +4,7 @@
 
 •⁠  ⁠⁠please share git 
         https://github.com/sricloudshare360/anusha-workspace.git
-•⁠  ⁠⁠please provide daily standup
+•⁠  ⁠⁠please provide daily standup /n
           * what you have done Yesterday ?
            Ans: 
           * what are you planning to complete today before you leave for the day
